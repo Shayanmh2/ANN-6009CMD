@@ -1,0 +1,6 @@
+https://www.openml.org/search?type=data&status=active&qualities.NumberOfFeatures=between_10_100&qualities.NumberOfInstances=between_10000_100000&id=46823&sort=runs
+
+the file was too big for github upload
+
+link to csv and arff
+https://livecoventryac-my.sharepoint.com/:f:/g/personal/shayanm2_uni_coventry_ac_uk/IgCmRPcl1UTyTY5uq2QqNaK5AdYJB2wBMBGJnAf0oAy0gvg?e=IfXdYq
